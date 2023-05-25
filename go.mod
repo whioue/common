@@ -1,4 +1,4 @@
-module github.com/whioue/common
+module git.imooc.com/coding-535/common
 
 go 1.16
 
